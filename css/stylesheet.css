@@ -9,6 +9,10 @@ header{
 h1{
     text-align: center;
 }
+h2{
+    text-align: center;
+}
+
 nav{
     text-align: center;
    ;
@@ -19,8 +23,12 @@ nav ul{
     list-style: none;
 }
 nav li{
+    color:rgb(53,8,80);
 
     display: inline-block;
+}
+nav li a:visited{
+   color: silver;
 }
 
 article{
@@ -28,4 +36,7 @@ article{
 }
 h3{
     text-align: center
+}
+#secondlist{
+    color: teal;
 }
