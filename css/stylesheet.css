@@ -1,0 +1,31 @@
+body{
+
+    background-color:#f2e9e4 ;
+}
+header{
+    background-color: #9a8c98;
+
+}
+h1{
+    text-align: center;
+}
+nav{
+    text-align: center;
+   ;
+}
+nav ul{
+    margin-top: 20;
+    padding-bottom: 15px;
+    list-style: none;
+}
+nav li{
+
+    display: inline-block;
+}
+
+article{
+    background-color:#c9ada7 ;
+}
+h3{
+    text-align: center
+}
